@@ -4,7 +4,7 @@ To learn and practice C++, I've made this repository to work on 2023 Advent of C
 
 I'll also collect snippets of code here that will be useful for future projects.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=clAalg-Mb6A)
 
 # Development Environment
 
